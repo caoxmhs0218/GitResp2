@@ -4,6 +4,6 @@ public class Student {
     private int age;
     private String name;
     private double weight;
-    private int sno;
+    private int sname;
 
 }
